@@ -1,0 +1,15 @@
+{
+    "tia": {
+        "version": "V17",
+        "public_api_path": "C:\\Program Files\\Siemens\\Automation\\Portal V17\\PublicAPI\\V17",
+        "project_path": "C:\\Path\\To\\Your\\Project.ap17"
+    },
+    "git": {
+        "repo_path": "C:\\tia-git-repo",
+        "branch": "main",
+        "remote": "origin"
+    },
+    "export": {
+        "output_dir": "exports"
+    }
+}

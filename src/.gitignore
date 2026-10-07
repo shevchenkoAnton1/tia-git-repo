@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Логи
+logs/
+*.log
+
+# Временные файлы TIA
+*.tmp
+~$*
+
+# VS Code
+.vscode/
